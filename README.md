@@ -1,6 +1,6 @@
 # Replication package — Section 5 (bracketed-wage example)
 
-Korobka and Semenova, *Debiased Inference for Bounding Wage Inequality with Many Controls*. This package reproduces Table 1 and Figure 1 in Section 5.
+Korobka and Semenova (2026), *Debiased Inference for Bounding Wage Inequality with Many Controls*. This package reproduces Table 1 and Figure 1 in Section 5.
 
 ## Outputs
 
