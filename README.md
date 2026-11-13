@@ -1,4 +1,4 @@
-# Replication package (Section 5)
+# orthoset
 
 Korobka and Semenova (2026), *Debiased Inference for Bounding Wage Inequality with Many Controls*. This package reproduces Table 1 and Figure 1 in Section 5.
 
